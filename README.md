@@ -8,6 +8,6 @@ Explore 18 courses, readings, homework, labs and projects. Plan weekly study tim
 
 The first visit follows the browser’s preferred supported language. Manual language choice and progress stay in the browser.
 
-Run locally: python3 -m http.server 8766
+Open the website: [CS PATH](https://mingshanzhang.github.io/cs-path/). No installation step is needed.
 
-Open http://127.0.0.1:8766/ . No installation step is needed.
+Repository: [mingshanzhang/cs-path](https://github.com/mingshanzhang/cs-path).
